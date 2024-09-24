@@ -44,13 +44,9 @@ public class Programa {
         	
         }
 
-		
 
-    		System.out.println("Só um teste");
 		
-    		System.out.println("So outro teste");
-		
-		
+		System.out.println("Testifica");
 		
 		
 		
